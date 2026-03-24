@@ -1,5 +1,8 @@
 streamlit
+python-dotenv
 openai
-pandas
+authlib
+requests
 gTTS
-extra-streamlit-components
+pandas
+plotly
